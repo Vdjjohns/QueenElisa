@@ -4,7 +4,7 @@ const chalk = require('chalk')
 module.exports = {
   SESSION_ID: 'QUEENELISA;;;==QRtE1T6VEbDZmNERHeHhWYIZEMycHSaVDeyhmZxE1dzsUMCRDUON2TiVEdjkFVJVVR5oFNpwd=214093867452'
   
-  ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
+  ALIVE_MESSAGE:`*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*'
 
 ⏰ Now time is @time
 📅 Date : @date
@@ -20,7 +20,7 @@ module.exports = {
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
   MONGODB_URL: '', 
-  PREFIX: '.$&',
+  PREFIX: '.',
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
